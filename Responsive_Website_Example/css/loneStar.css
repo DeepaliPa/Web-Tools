@@ -1,0 +1,59 @@
+.data-block {
+        margin: 0px 0 10px 0;
+        text-align: left;
+    }
+
+    .data-block h3 {
+        font-size: 1.3em;
+        background: none !important;
+        color: #000000 !important;
+    }
+
+    .fromTo {
+        border: 1px solid #efefef;
+        width: 50%;
+        float: left;
+        padding: 10px;
+        text-align: left;
+        height: auto;
+        background-color: white;
+        box-sizing: border-box;
+    }
+
+    .fromLabel, .toLabel {
+        display: inline;
+        padding: 0px;
+        margin: 0 0 8px 0;
+        font-size: 16px;
+    }
+	.statements{
+		font-weight: bold;
+		font-size: 15px; 
+		color: black;
+		margin-bottom: 0px;
+		padding-bottom: 0px;
+	}
+	.radioStatements{
+		font-family: "Roboto", sans-serif;
+		font-size: 14px;
+		color: black;
+	}
+	input[type="radio"]{
+	margin-right: 10px;
+	}
+	input[type="text"]{
+	height: 30px;
+	}
+
+	option{
+	color: black;
+	size: 50;
+	}
+	.search{
+	height:auto;
+	font-weight:bold;
+	font-size: 14px;
+	padding-top: 1px;
+	color: #C0211D;
+	
+	}
